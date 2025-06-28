@@ -22,13 +22,13 @@
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N4kDpIZwEJ3bbGgsHHc-42" target="0N4kDpIZwEJ3bbGgsHHc-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-42" value="十五涌1号&lt;div&gt;05环&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-42" value="十五涌1号&lt;div&gt;05环&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-44" value="配网：B19.20&lt;div&gt;&lt;br&gt;&lt;div&gt;智网：B23.24&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5AA9E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="414" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-46" value="新垦医院&lt;div&gt;01环&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-46" value="新垦医院&lt;div&gt;01环&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="500" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-48" value="配网：A1.2&lt;div&gt;&lt;br&gt;&lt;div&gt;智网：A5.6&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5AA9E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
