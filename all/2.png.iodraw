@@ -37,7 +37,7 @@
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N4kDpIZwEJ3bbGgsHHc-50" target="0N4kDpIZwEJ3bbGgsHHc-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-50" value="十五涌2号&lt;div&gt;05环&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-50" value="十五涌2号&lt;div&gt;05环&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#006EAF;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-52" value="百万葵园&lt;div&gt;&lt;span style=&quot;&quot;&gt;05环&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
