@@ -292,7 +292,7 @@
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N4kDpIZwEJ3bbGgsHHc-149" target="0N4kDpIZwEJ3bbGgsHHc-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-149" value="沙尾一村20号" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0N4kDpIZwEJ3bbGgsHHc-149" value="沙尾一村20号&lt;div&gt;01环&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1220" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0N4kDpIZwEJ3bbGgsHHc-151" value="&lt;div&gt;01环&lt;/div&gt;配网：B13.14&lt;div&gt;&lt;div&gt;智网：B9.10&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5AA9E6;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
